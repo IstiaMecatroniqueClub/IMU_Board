@@ -1,0 +1,5 @@
+<map id="Pin" name="Pin">
+<area shape="rect" id="node2" href="$class_input.html" title="Input class. " alt="" coords="5,189,76,281"/>
+<area shape="rect" id="node3" href="$class_output.html" title="Output class. " alt="" coords="100,175,187,296"/>
+<area shape="rect" id="node4" href="$class_led.html" title="Led class. " alt="" coords="98,344,189,480"/>
+</map>
